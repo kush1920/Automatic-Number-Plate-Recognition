@@ -24,6 +24,7 @@ So we took the project to design the above mentioned system, right from the sour
 <p align ="justify">
 A box with 3 sliding doors, to hold the electronic components of the system. Easy to fabricate design, without the hassle of drilling, tapering and milling. Extruded cut in the front to fit the face of camera.
 </p>
+
 * DIMENSIONS:
 BOX :  17 x  11  x  10  (cm)
 
@@ -43,34 +44,34 @@ LOGITECH WEBCAM
 12 volt battery powering the pi with Micro USB 2.0 outlet
 
 ## Cost Structure
-<p align ="justify">
+
 | Components       | Cost(INR.)     |
 | ---------------- |:--------------:|
 | Raspberry Pi     | 3830.00        |
 | Battery          | 1500.00        |
 | LOGITECH WEBCAM  | 3500.00        | 
 | Total            | 8830.00        |
-</p>
+
 
 ## Applications
-<p align ="justify">
+
 - Shopping Malls : To keep a record of vehicles entering
 - Toll Plaza : On highways for security reasons 
 - Parking Plazas : To detect and generate tax for parked vehicles automatically
 - Educational or Government Institutions : To ensure only authorized vehicles are permitted inside 
-</p>
+
 
 ## Limitations
-<p align ="justify">
+
 - Restrictions on Camera's Field Of View , Resolution an Frame Rate .
 - A better OCR trained on strong GPU's will give better results .
-</p>
+
 
 ## Future Improvement 
-<p align ="justify">
+
 - Developments in ML and DL can give more precise and accurate outputs .
 - Reduction in size of camera and microprocessor can save space .
-</p>
+
 
 ## Team Members 
 1. [Atharva Karanjgaokar](https://github.com/atharva2702)
